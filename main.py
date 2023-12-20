@@ -1,0 +1,4 @@
+print("WELCOME TO BAND NAME GENERATOR");
+city=input("NAME OF THE CITY U GREW UP IN \n");
+pet=input("NAME OF YOUR LOVELY PET\n");
+print("THEREFORE, WE CONCLUDED THAT YOUR BAND NAME IS "+city+""+pet+" \n");
